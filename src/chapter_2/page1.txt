@@ -1,0 +1,4 @@
+Java is cool!
+I don't know C++
+
+I am adding some text
